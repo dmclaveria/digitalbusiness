@@ -1,0 +1,33 @@
+- HOMEPAGE (short intro about your business)
+
+Brand:
+Color- blue, red, yellow white
+font:
+TILE: MONSERRAT
+SUB TITLE: MONSERRAT BOLD
+PARAGRAPH: MONSERRAT THIN
+LOGO: Graphics Design
+
+
+- ABOUT ME (a little story about yourself)
+
+- certifications (5 certicates)
+
+- services being offered
+  * web dev
+  * web research
+  * web updates
+
+- book now ( a little story)
+- contact us (email, address of your business, social media account, contact number)
+FORM
+NAME:
+ADDRESS:
+PHONE:
+SOCIAL MEDIA: (FB, IG)
+
+_________________________________________________________________
+FOOTER PART
+
+RESOURCES: 
+copyright

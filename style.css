@@ -1,0 +1,68 @@
+*{
+
+    padding: 0;
+}
+.navbar{
+    background-color: #E17717;
+
+}
+.navbar a{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.75rem;
+}
+.hero h1{
+    color: orange;
+    font-size: 5rem;
+}
+@media only screen and (max-width: 768px) {
+    .hero{
+        height: 50vh;
+    }
+    #btnbook{
+        width: 100%;
+    }
+}
+.hero{
+    height: 100vh;
+}
+.hero p{
+    font-size: 1.5rem;
+}
+
+.about h2{
+    font-size: 4rem;
+
+}
+.about p, ul{
+    font-size: 1.25rem;
+    line-height: 2rem;
+    color: #E17717;
+}
+.about{
+    background-color: #EBF0F2;
+
+
+}
+.cert .col-4{
+    height: 100%;
+    border: solid 1px black;
+}
+.cert h2{
+    font-size: 4rem;
+}
+.services h2{
+    font-size: 4rem;
+}
+.coname h2{
+    font-size: 4rem;
+}
+.about p{
+    text-align: justify;
+}
+#aservice{
+    background-color: #EBF0F2;
+}
+#footerb{
+    background-color: #E17717;
+}
